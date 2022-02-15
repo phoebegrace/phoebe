@@ -1,4 +1,4 @@
-![alt text](https://github.com/phoebegrace/pebi/blob/main/It's%20Me%2C%20Phoebe.png "Welcome Text")
+![alt text](https://github.com/phoebegrace/phoebe/blob/main/It's%20Me%2C%20Phoebe.png "Welcome Text")
 ## Hello!
 
 I am a first year college student of West Visayas State University taking Bachelor of Science in Computer Science (BSCS). I dreamt of becoming a developer in the future!
